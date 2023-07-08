@@ -40,6 +40,6 @@ If you are willing to use this work, please be kind enough to cite the following
     Sinhala languages. In this paper, we explain the dataset creation pipeline
     as well as the experimental results of the tests we have carried out to
     verify the quality of the data sets. The data sets and the related scripts
-    are available at [link will be added after blind review]."
+    are available at https://github.com/kasunw22/sinhala-para-dict/tree/main."
 }
 ```
