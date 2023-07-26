@@ -8,7 +8,7 @@ If you are willing to use this work, please be kind enough to cite the following
 
 ```
 @INPROCEEDINGS{Wick2308:Sinhala,
-    AUTHOR="Kasun I Wickramasinghe and Nisansa {de Silva}",
+    AUTHOR="Kasun Wickramasinghe and Nisansa {de Silva}",
     TITLE="{Sinhala-English} Parallel Word Dictionary Dataset",
     BOOKTITLE="2023 IEEE 17th International Conference on Industrial and Information
     Systems (ICIIS) (ICIIS'2023)",
