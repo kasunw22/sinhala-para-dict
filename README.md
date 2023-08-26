@@ -4,7 +4,7 @@ English-Sinhala parallel word dictionary and resources
 - scripts/si-stop-words.txt is taken from [this](https://github.com/nlpcuom/Sinhala-Stopword-list/blob/master/stop%20words.txt) repository.
 
 ### BibTex Citation
-If you are willing to use this work, please be kind enough to cite the following paper.
+If you are willing to use this work, please be kind enough to cite the following [paper](https://arxiv.org/abs/2308.02234).
 
 ```
 @INPROCEEDINGS{Wick2308:Sinhala,
