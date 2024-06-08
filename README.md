@@ -2,7 +2,8 @@
 English-Sinhala parallel word dictionary and resources
 
 - scripts/si-stop-words.txt is taken from [this](https://github.com/nlpcuom/Sinhala-Stopword-list/blob/master/stop%20words.txt) repository.
-- word-frequencies/all_counts.txt contains the word-frequency analysis we have done. We used [STM](https://github.com/scnakandala/sinhala_text_mining/tree/master) and [SinMin](https://rtuthaya.staff.uom.lk/resources/dataset/17) corpora
+- word-frequencies/all_counts.txt contains the word-frequency analysis we have done. We used [STM](https://github.com/scnakandala/sinhala_text_mining/tree/master) and [SinMin](https://rtuthaya.staff.uom.lk/resources/dataset/17) corpora. There are 2.16M unique words.
+
 ### BibTex Citation
 If you are willing to use this work, please be kind enough to cite the following [paper](https://arxiv.org/abs/2308.02234).
 
